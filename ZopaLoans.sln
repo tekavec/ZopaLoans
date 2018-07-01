@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZopaLoans", "ZopaLoans\ZopaLoans.csproj", "{B6C6A958-4DF6-4C9E-B3FC-680ED08CE865}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZopaLoans.Tests", "ZopaLoans.Tests\ZopaLoans.Tests.csproj", "{B2D224EE-5B3E-472B-B22B-2525B6108BF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B6C6A958-4DF6-4C9E-B3FC-680ED08CE865}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6C6A958-4DF6-4C9E-B3FC-680ED08CE865}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6C6A958-4DF6-4C9E-B3FC-680ED08CE865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D224EE-5B3E-472B-B22B-2525B6108BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D224EE-5B3E-472B-B22B-2525B6108BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D224EE-5B3E-472B-B22B-2525B6108BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D224EE-5B3E-472B-B22B-2525B6108BF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
